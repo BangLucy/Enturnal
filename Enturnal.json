@@ -1,6 +1,10 @@
 {
     "name": "Enturnal",
     "theme_color_map": {
+       "KEYBOARD": [
+          "#252f3b",
+          "#ECEFF4"
+       ],
        "HEADER_PRIMARY": [
           "#FFFFFF",
           "#060607"
