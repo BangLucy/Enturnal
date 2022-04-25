@@ -10,11 +10,11 @@
           "#4f5660"
        ],
        "TEXT_NORMAL": [
-          "#fa6fee",
+          "#FFFFFF",
           "#2e3338"
        ],
        "TEXT_MUTED": [
-          "#AF4DA6",
+          "#B2B2B2",
           "#747f8d"
        ],
        "INTERACTIVE_NORMAL": [
