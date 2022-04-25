@@ -2,11 +2,11 @@
     "name": "Enturnal",
     "theme_color_map": {
        "HEADER_PRIMARY": [
-          "#fa6fee",
+          "#FFFFFF",
           "#060607"
        ],
        "HEADER_SECONDARY": [
-          "#AF4DA6",
+          "#B2B2B2",
           "#4f5660"
        ],
        "TEXT_NORMAL": [
