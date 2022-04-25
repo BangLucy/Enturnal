@@ -2,19 +2,19 @@
     "name": "Enturnal",
     "theme_color_map": {
        "HEADER_PRIMARY": [
-          "#1e2731",
+          "#fa6fee",
           "#060607"
        ],
        "HEADER_SECONDARY": [
-          "#B6B6B6",
+          "#AF4DA6",
           "#4f5660"
        ],
        "TEXT_NORMAL": [
-          "#1e2731",
+          "#fa6fee",
           "#2e3338"
        ],
        "TEXT_MUTED": [
-          "#B6B6B6",
+          "#AF4DA6",
           "#747f8d"
        ],
        "INTERACTIVE_NORMAL": [
