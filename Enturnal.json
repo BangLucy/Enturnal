@@ -22,11 +22,11 @@
           "#747f8d"
        ],
        "INTERACTIVE_NORMAL": [
-          "#C8C8C8",
+          "#1e2731",
           "#4f5660"
        ],
        "INTERACTIVE_HOVER": [
-          "#DCDDDE",
+          "#252f3b",
           "#2e3338"
        ],
        "INTERACTIVE_ACTIVE": [
@@ -90,7 +90,7 @@
           "hsla(214, 9.9%, 50.4%, 0.24)"
        ],
        "BACKGROUND_MODIFIER_ACCENT": [
-          "rgba(255, 255, 255, 0.06)",
+          "#1e2731",
           "hsla(240, 7.7%, 2.5%, 0.08)"
        ],
        "SCROLLBAR_THIN_THUMB": [
